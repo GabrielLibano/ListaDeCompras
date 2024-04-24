@@ -1,3 +1,3 @@
 package br.com.fiap.listadecompras
 
-data class ItemModel(val nome: String)
+data class ItemModel(val name: String)
